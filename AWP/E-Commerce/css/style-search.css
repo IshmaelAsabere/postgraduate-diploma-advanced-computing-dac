@@ -1,0 +1,84 @@
+body{
+    background: rgb(240, 240, 240);
+    font-family: 'Segoe UI';
+}
+.profile{
+    margin-left: 5%;
+    margin-bottom: 10px;
+    margin-top: 12px;
+    width: 90%;
+    height: 90%;
+    display: flex;
+}
+.profile-left{
+    width: 25%;
+    height: 90%;
+}
+.space-hr{
+    height: 90%;
+    width: 1%;
+}
+.profile-right{
+    width: 68%;
+    height: 90%;
+}
+.profile-section{
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background: white;
+}
+.inner-profile{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding: 2px;
+}
+.inner-profile p{
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.inner-content{
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+.heading p{
+    margin-top: 4px;
+}
+.amountOutputName{
+    position: absolute;
+    margin-left: 10px;
+}
+input[type="range"]{
+    width: 50%;
+}
+input[type="submit"]{
+    padding: 12px 6px;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    width: 100%;
+    border: none;
+    float: left;
+    color: #fff;
+    margin-top: 10px;
+}
+.product{
+    padding: 10px;
+}
+.product-item{
+    display: flex;
+}
+.product-image{
+}
+.product-detail{
+    display: block;
+}
+.product-info {
+    margin-left: 40px;
+    margin-top: 15px;
+    display: flex;
+}
+.product-price{
+    margin-left: 400px;
+    position: absolute;    
+    font-size: 25px;
+}

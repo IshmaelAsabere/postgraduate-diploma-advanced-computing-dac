@@ -1,0 +1,76 @@
+Showcase the projects to demonstrate other desirable skills. These projects can help companies understand your passion for engineering, initiative, skill, and a love for continuous improvement. This can include your projects in college, internships, courses, hobbies, et al. The skills/tech stacks you add in these projects do not add to the total work experience.
+
+
+
+
+PG Diploma in Mobile Computing (PG-DMC)
+
+The Post-Graduate Diploma in Mobile Computing (PG-DMC) is one of the pioneering programs of ACTS. The main focus of this course is to enable the candidates fulfilling the eligibility criteria, to develop their skill set mainly in areas like Native and Hybrid Mobile Application Development. The course also focuses on Java Programming, as part of the industry requirement. This course incorporates  Mobility and Analytics keeping in view the emerging trends in mobile technology as well as contemporary and futuristic human resource requirements of the Mobile Industry. The depth and width of the course is unique in the industry covering a wide spectrum of the ICT industry.
+
+
+Course Outcome: 
+After completion of course students will be able to acquire the following skills:
+Design and build advanced native apps on Android and iOS platform,work with cross-functional teams to define, design, and ship  new features, unit-test code for sturdiness, including edge cases, usability, and general reliability. Identify and correct bottlenecks and  fix bugs,continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+Design and build Hybrid mobile apps through HTML5, CSS, and JavaScript web standards.
+Analyse and explain the behaviour of programs involving the fundamental program constructs, Design and implement a class based on  attributes and behaviours of objects. Design and implement components like: Session, Entity, EJBs. Understand the multi-tier  architecture of web-based enterprise applications using Enterprise JavaBeans. Integrate Servlets, JSPs with EJB and Databases in J2EE  application. Understand the deployment descriptor and enterprise application deployment.
+How to think creatively, analytically and abstractly about computational problems.
+
+
+
+
+Course Content:
+1) OS Concepts and Linux Programming    - 40 Hours
+OS Concepts: Introduction to Operating System, Processes Architecture, Multithreading, CPU Scheduling and Synchronization, Memory management
+Linux Programming: Introduction Linux Architecture, Basic Commands, Linux Shell Programming.
+
+
+2) Introduction to DBMS    - 60 Hours
+Need of RDBMS Client/Server, Computing Codd’s Rules, Data Models, Normalization Techniques, ER Diagrams, Data Flow Diagrams, SQL: DDL, DML, DCL, Sub query Joins, SQL Functions, Stored Procedures, NoSQL concepts, Introduction to MongoDB.
+
+3) Algorithms and Data Structures    - 70 Hours
+Introduction to STL (Standard Type Libraries), Define the problem, Find Creative Solutions using creativity tools, Evaluate and Select solution, Implementing Decisions, Algorithm Design and Analysis, Analyzing time and space complexity.
+Basic Data Structures: Arrays, Stacks, Queues (Circular Queues, Priority Queues, Dequeues), Linked lists (Single, Double and Circular Linked Lists), 
+Trees and Applications: Tree traversals, Ordered Trees, Binary trees, Complete Binary Trees, Search trees, Binary Search Trees, Self-Balancing Trees
+Searching & sorting algorithms: Sequential Search, Binary Search, Selection sort, Insertion sort, Bubble sort, Heap sort, Merge sort, Quick sort, Hash Functions and Hash Tables
+Graph and Applications: Graph traversal algorithms (BFS, DFS), Dijkstra’s Algorithm, Bellman Ford Algorithm, All-pairs shortest path, Floyd-Warshall algorithm, Johnson's algorithm, Maximum flow algorithms, Ford-Fulkerson algorithms, Spanning Trees.
+
+4) Object Oriented Programming with Java    - 120 Hours
+OOPS: Introduction to OOPs concepts, Classes and Objects, Access specifiers, Namespaces and Tokens, Abstraction, Data hiding, Encapsulation, Polymorphism and Inheritance
+Core Java: Java 8 and its features, Introduction to JDK, JRE &JVM, JVM Architecture Overview, Data types, Variables, Constants, Operators, Arrays and control statements (if, for, while, switch etc.). Classes in java, Constructors, instance data, method overloading and overriding, super and this keyword, static variables, methods, block and scope, lifetime. Packages and access rules, Inheritance and its types, Runtime and Compile Time Polymorphism, Abstract classes and Interfaces, Inner classes, Exception Handling, String and Wrapper classes, Generics and Collections, File Handling and Multithreading, Reflection, Java n/w programming, JDBC Driver and Architecture.
+
+5) Web-Based Java Programming    - 110 Hours
+Introduction to JSON, Servlets, Session Management, JSP and JSTL, MVC Architecture Hibernate framework, ORM Concepts, JPA, Hibernate architecture, Annotation support and ID generators. Transaction management, Hibernate Session CRUD API, Hibernate caching,
+HQL, Spring framework, Overview, IOC, Dependency Injection, Spring Beans, Spring Core Container, Autowiring, Web application using Controller, Service & DTO layers, Spring Hibernate Integration and Testing, Web Services, REST Architecture, RESTful web service using Spring Boot, Integration and Testing of RESTful web server and client, Java Mail API.
+
+6) Mobile Programming    - 160 Hours
+i.        Android Programming (110 Hrs)
+Introduction of Android and its architecture, Android SDK features, Introduction to Kotlin      Programming, Android activities, lifecycle and callback methods, Android UI design    fundamentals, Layouts, Intents, Toast, Adapters, Dialogs , Animations, Notification and Media Player, Material Design, Fragments , fragments lifecycle and callback methods.List View and  Recycler view, ActionBar, ToolBar, Menus and Popups, View Pager, Navigation Drawer Android Storage: SQLite database,Content Providers, Multitasking in Android, Android Location based services, Android Sensors, Using blue tooth and telephony Consuming REST API , JSON Parsing, Retrofit Libraries, Integration with Social Networking like Facebook, Twitter etc , Design Patterns- MVP and MVVM, Publish application on play store.
+
+ii.        iOS Programming (50 Hrs)
+
+iOS History and iOS Architecture, Swift Programming Basics, iOS app development: XCode, UIKit, Controllers, Storyboard, Basic UI Controls, UITextField, UIButton, UILabel, UISegmentedControl, Controller Life Cycle, UINavigationController, UIAlertController, Advance UI Development, Local Storage, REST API Integration:  Multithreading and GCD, CocoaPods, JSON GET POST Handling, Alamofire, SwiftyJSON.
+
+7) Hybrid Mobile Apps Programming    - 140 Hours
+Introduction to Hybrid development, Hybrid application frameworks, HTML 5.0, CSS, JavaScript, jQuery, Node.js, Express, Responsive Web Design, React Native: Introduction to React Native and its architecture.
+Props and states, Inline and External styling, React native binding, handling events and user inputs, validations, using network in app, Timers, Animations and Gesture Support, Consuming web services, Publishing App to Play Store and App Store.
+
+
+8) Aptitude & Effective Communication    - 90 Hours
+Aptitude: Percentage, Profit & Loss, Ratio & Proportion, Average, Mixture & Allegation, Simple Interest & Compound Interest,   Seating Arrangements (Linear & Circular), Ages, Time, Speed & Distance, Trains, Boats & Streams, Time & Work, Wages (Man days), Pipes & Cisterns, Clocks, Permutations & Combinations, Probability, 
+Effective Communication: Personality Development, English Grammar, Correct Usage of English,  Listening Skills, Reading Skills, Writing Skills, Formal Application Writing, Public Speaking, Presentation Skills, Group Discussions, Personal Interviews
+
+
+9) Project    - 110 Hours:
+Software: A Process, Various Phases in s/w development Software life cycle agile model (Self Study of other models), Introduction to Coding Standards Software Quality Assurance.
+
+
+
+Course url:
+https://www.cdac.in/index.aspx?id=DAC&courseid=26
+
+https://www.cdac.in/index.aspx?id=edu_acts_PGDiplomaCoursesAdmission
+
+https://www.cdac.in/index.aspx?id=edu_acts_PGDiplomaCoursesAdmission
+
+Institution url:
+https://www.cdac.in/index.aspx
